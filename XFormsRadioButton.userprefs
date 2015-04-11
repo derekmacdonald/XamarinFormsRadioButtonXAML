@@ -1,13 +1,13 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_15" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XFormsRadioButton\XFormsRadioButton\Pages\RadioGroupDemo.xaml">
+﻿<Properties StartupItem="XFormsRadioButton/XFormsRadioButton.Android/XFormsRadioButton.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 7 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFormsRadioButton/XFormsRadioButton/CustomControls/BindableRadioGroup.cs">
     <Files>
-      <File FileName="XFormsRadioButton\XFormsRadioButton\ViewModel\RadioGroupDemoViewModel.cs" Line="1" Column="1" />
-      <File FileName="XFormsRadioButton\XFormsRadioButton\Pages\RadioGroupDemo.xaml" Line="1" Column="1" />
-      <File FileName="XFormsRadioButton\XFormsRadioButton\Pages\RadioGroupDemo.xaml.cs" Line="1" Column="1" />
-      <File FileName="XFormsRadioButton\XFormsRadioButton\CustomControls\BindableRadioGroup.cs" Line="1" Column="1" />
-      <File FileName="XFormsRadioButton\XFormsRadioButton\CustomControls\CustomRadioButton.cs" Line="1" Column="1" />
-      <File FileName="XFormsRadioButton\XFormsRadioButton.Android\Renderer\RadioButtonRenderer.cs" Line="1" Column="1" />
+      <File FileName="XFormsRadioButton/XFormsRadioButton/Pages/RadioGroupDemo.xaml" Line="24" Column="17" />
+      <File FileName="XFormsRadioButton/XFormsRadioButton/ViewModel/RadioGroupDemoViewModel.cs" Line="1" Column="1" />
+      <File FileName="XFormsRadioButton/XFormsRadioButton.Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="XFormsRadioButton/XFormsRadioButton.Android/Renderer/RadioButtonRenderer.cs" Line="24" Column="18" />
+      <File FileName="XFormsRadioButton/XFormsRadioButton.Android/packages.config" Line="1" Column="1" />
+      <File FileName="XFormsRadioButton/XFormsRadioButton/CustomControls/BindableRadioGroup.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

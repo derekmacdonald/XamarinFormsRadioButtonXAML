@@ -17,8 +17,7 @@ namespace XFormsRadioButton.ViewModel
             selectedIndex = -1;
 			LoadData ();
         }
-
-
+			
         private void LoadData()
         {
 
@@ -57,7 +56,7 @@ namespace XFormsRadioButton.ViewModel
         public event PropertyChangedEventHandler PropertyChanged;
         public void NotifyPropertyChanged(String propertyName)
         {
-            PropertyChangedEventHandler handler = PropertyChanged;
+			PropertyChangedEventHandler handler = PropertyChanged;
             if (null != handler)
             {
                 handler(this, new PropertyChangedEventArgs(propertyName));
